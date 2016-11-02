@@ -1,0 +1,14 @@
+Terminal Commands:
+pwd: look at folders 
+ls <directory name>:  List contents of a directory
+cd: Go home.
+cd <directory name>:  Change directory
+cd ..: Go up
+cd: move into another file type
+cat <file name>: View the contents of a file
+gedit <file name> &
+python -m SimpleHTTPServer - Start the development server
+git clone --config="http.proxy=http://uname:password@192.168.2.1:8080" http://url-to-your-repo
+git add <file name>
+git commit -m "Commit Comment"
+git pushgit 
