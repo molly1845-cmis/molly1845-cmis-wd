@@ -1,0 +1,21 @@
+1. Enter the classroom
+2. Open up Terminal and clone your repository using this command 
+git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+3. Enter your own information into the cloning command and make sure it is all in one line.
+4. Now that you have cloned your repository, you can add a file to it. First you must make sure you are in your folder. To do that, use the command: 
+cd "your repository name"
+5. You will know when you are in your folder when the name of your repository is in blue. Now you can create your file that you want to edit. To do this you must use the command: 
+gedit "filename" 
+6. After you have hit enter, gedit will pop up with your file name at the stop. The name in parenthesis is the name of the folder your are in. If it has your repository name in it, you're doing the right thing. 
+7. Go to Edit, and then to Preferences. A box will come up, tick the box that says "Display line numbers."
+8. Now you can edit all you want, but make sure you save it once you are done. Go up to the top where it says Save, with a arrow pointing down to the left of it. Click that and now notice once you have saved it the asterix (*) next to the file you were editing has disappeared. This means you have saved your file. If it's still there, it means it hasn't been save, and you are still editing. 
+9. Close gedit to type in the next commands into Terminal.
+10. When you go back to Terminal, make sure you are still in your folder. To add the file, you must use the command:
+git add filename
+11. Next you must commit, to do this you type in the command 
+commit -m "what you did with the file" 
+For example commit -m "I edited my README.md" 
+12. After entering that command, all you have to do is git push, which is saving it to your folder. Use the command:
+git push
+13. Once hitting enter, it will ask you for your github username and passoword. Notice when you are typing your password, no letters will show up, so make sure you type as carefully as possible. Hit enter.
+14. Go back to your repository, and refresh the page. Make sure your file that you have created is there. 
