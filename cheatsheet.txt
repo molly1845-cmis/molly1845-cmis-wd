@@ -12,3 +12,20 @@ git clone --config="http.proxy=http://uname:password@192.168.2.1:8080" http://ur
 git add <file name>
 git commit -m "Commit Comment"
 git pushgit 
+python -m SimpleHTTPServer - Start the development server
+To validate: copy html format and copy into box, then click check. Correct any errors you have.
+Format of html:
+Head
+Title
+Body
+h = heading
+p = paragraph
+Opening tag <>
+closing tag </>
+Common tags for creating webpag:
+header
+nav
+main
+footer
+h1 - h6
+p
