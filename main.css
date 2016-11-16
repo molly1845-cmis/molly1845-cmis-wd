@@ -1,15 +1,52 @@
 html {
-} 
+	background-color: #B0E0E6;
+}
 h1 { 
 	color: #7B68EE; 
 	font-size: 50px; 
-	font-family: Comic Sans MS;  
+	font-family: Comic Sans MS;
+	background-color:#FF69B4; 
+	background:linear-gradient(#C71585,#7B68EE);
+	border-width: 10px; 
+	border-right: #FFB6C1;
+	border-right-width:9px;
+	border-left: #FFB6C1;
+	border-left-width:9px;
+	border-style: solid; 
+	border-left-style:dotted;
+	border-right-style: dotted;
+	border-top:white;
+	border-top-width:12px;
+	border-top-style:solid;
+	border-bottom:white;
+	border-bottom-width: 10px; 
+	border-bottom-style: solid; 
+
+	
 }
 h2 {
 	color: #87CEFA; 
 	font-size: 30px; 
 	font-family: Comic Sans MS; 
+	background-color: #9370DB;
+	background: linear-gradient(#DDA0DD,white);
+	border-width: solid 8px; 
+	border-color:#40E0D0;
+	border-style: solid;
+	border-right:
+	border-right-width:4px;
+	border-right-style:
+	border-left:
+	border-left-style:
+ 
 }
 p { 
-	color: #48D1CC; 
+	color: #483D8B; 
+	font-size: 20px;
+	font-family: Comic Sans MS; 
+	background-color: #00BFFF;
+	border: solid 6px; 
+	border-color:#9400D3;
+	border-style: dashed;
+} 
 
