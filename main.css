@@ -1,10 +1,13 @@
 html {
-	background-color: #B0E0E6;
+	background-image:url("http://wallpapercave.com/wp/TtjLdl8.jpg");
+	background-color: #B0E0E6;		
 }
 h1 { 
 	color: #7B68EE; 
 	font-size: 50px; 
 	font-family: Comic Sans MS;
+	word-spacing:20px; 
+	letter-spacing: 2px; 
 	background-color:#FF69B4; 
 	background:linear-gradient(#C71585,#7B68EE);
 	border-width: 10px; 
@@ -21,32 +24,44 @@ h1 {
 	border-bottom:white;
 	border-bottom-width: 10px; 
 	border-bottom-style: solid; 
-
+	zoom:120%;
+	height: 80px; 
 	
-}
+}	
 h2 {
 	color: #87CEFA; 
 	font-size: 30px; 
-	font-family: Comic Sans MS; 
+	font-family: Comic Sans MS;
+	text-shadow:3px 3px #6495ED;
+	text-decoration:underline; 
+	text-indent: 20px;
+	position: relative; 
+	right: -600px; 
+	letter-spacing: 4px; 
+	max-width: 200px; 
 	background-color: #9370DB;
 	background: linear-gradient(#DDA0DD,white);
 	border-width: solid 8px; 
 	border-color:#40E0D0;
-	border-style: solid;
-	border-right:
+	border-style: dashed;
 	border-right-width:4px;
-	border-right-style:
-	border-left:
-	border-left-style:
- 
+	border-right-style:solid;
+	border-left: 4px; 
+	border-left-style:solid; 
+	height: 50px;
 }
 p { 
 	color: #483D8B; 
 	font-size: 20px;
-	font-family: Comic Sans MS; 
+	font-family: Comic Sans MS;
+	text-indent: 60px; 
+	word-spacing: 7px;  
 	background-color: #00BFFF;
-	border: solid 6px; 
+	border: solid 3px; 
 	border-color:#9400D3;
-	border-style: dashed;
+	border-style: double;
+	opacity: 0.8; 
+	zoom: 120%; 
+	box-shadow:10px 10px 5px #00CED1; 
 } 
 
