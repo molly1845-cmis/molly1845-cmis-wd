@@ -45,7 +45,7 @@ outline
 	I asked people around me for some help to come up with ideas. The most interesting properties I learned from my classmates were the background linear gradient, and the text shadow. 
 */
 	
-	background-image:url("http://wallpapercave.com/wp/TtjLdl8.jpg");
+	background-image:url("http://www.wallpapereast.com/static/images/HD-Wallpapers-89_rElkAPy.jpg");
 	background-color: #B0E0E6;		
 }
 h1 { 
@@ -72,6 +72,9 @@ h1 {
 	border-bottom-width: 10px; 
 	border-bottom-style: solid; 
 	height: 80px; 
+	width: 900px; 
+	position: relative;
+	right: -300px;
 	
 }	
 h2 {
