@@ -1,0 +1,35 @@
+html {
+}
+
+h1 {
+	background: green;
+	color: yellow; 
+	font-family: impact;
+	font-style: italic;
+	font-size:40px;
+	border-bottom: dashed;
+	border-bottom-width: 5px;
+}
+
+p {
+	background: red;
+	color: blue;
+	font-family: impact;
+	font-style: italic;
+	font-size: 18px;
+	border-bottom:yellow;
+	border-bottom-style: dashed;
+	border-bottom-width: 10px
+	
+}
+
+h2 {
+
+	background: purple;
+	border: white;
+	color: yellow;
+	
+
+	
+
+	
