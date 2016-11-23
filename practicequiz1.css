@@ -11,23 +11,45 @@ h1 {
 	border-bottom-width: 5px;
 }
 
-p {
+h {
 	background: red;
 	color: blue;
 	font-family: impact;
 	font-style: italic;
 	font-size: 18px;
+	letter-spacing: 1px;
 	border-bottom:yellow;
 	border-bottom-style: dashed;
-	border-bottom-width: 10px
-	
+	border-bottom-width: 10px;
+	margin: -27px;
+	padding: 20px;
+	margin-left:1px;
+	margin-right:-1px;
 }
 
 h2 {
 
 	background: purple;
-	border: white;
 	color: yellow;
+	font-family: arial;
+	font-size: 25px;
+
+}
+
+h3 {
+
+	background: yellow;
+	color: purple;
+	font-family: arial; 
+	font-size: 20px;
+}
+
+p {
+	font-family:arial;
+	font-size:16px;
+	color: blue;
+	background: white;
+}
 	
 
 	
