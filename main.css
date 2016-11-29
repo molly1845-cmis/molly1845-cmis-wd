@@ -1,50 +1,4 @@
 html {
-	/*
-Create a new file called "main.css"*
-Add a link element to the head of your index.html file*
-<link rel="stylesheet" href="main.css" type="text/css">*
-Edit the main.css file*
-add a declaration for each element in the body of your index.html file.*
-add properties to style the background color of each element.*
-add properties to style the border of each element.*
-add properties to style the font and text of each element.*
-Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.*
-Use at least 4 different units to set sizes of various aspects of your webpage.*
-Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.*
-View your index.html in the development server.*
-Validate your index.html file.*
-Validate your main.css file. *
-Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.*
-Upload to the production server with sftp.*
-View your index.html in the production server.*
-*/
-/*
-background-image
-background-color
-color
-font-size
-font-family
-word-spacing 
-letter-spacing
-background
-border-bottom-style
-text-transform
-height
-text-shadow
-text-decoration
-text-indent
-position
-right
-max-width
-opacity
-box-shadow
-padding
-outline
-*/
-/*
-	I asked people around me for some help to come up with ideas. The most interesting properties I learned from my classmates were the background linear gradient, and the text shadow. 
-*/
-	
 	background-image:url("http://www.wallpapereast.com/static/images/HD-Wallpapers-89_rElkAPy.jpg");
 	background-color: #B0E0E6;		
 }
@@ -98,7 +52,9 @@ h2 {
 	border-left: 4px; 
 	border-left-style:solid; 
 	height: 50px;
+	width: 1000px;
 }
+
 p { 
 	color: #483D8B; 
 	font-size: 20px;
@@ -114,4 +70,50 @@ p {
 	padding: 20px;
 	outline: #FF1493 dotted thick;
 } 
+
+/*
+Create a new file called "main.css"*
+Add a link element to the head of your index.html file*
+<link rel="stylesheet" href="main.css" type="text/css">*
+Edit the main.css file*
+add a declaration for each element in the body of your index.html file.*
+add properties to style the background color of each element.*
+add properties to style the border of each element.*
+add properties to style the font and text of each element.*
+Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.*
+Use at least 4 different units to set sizes of various aspects of your webpage.*
+Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.*
+View your index.html in the development server.*
+Validate your index.html file.*
+Validate your main.css file. *
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.*
+Upload to the production server with sftp.*
+View your index.html in the production server.*
+*/
+/*
+background-image
+background-color
+color
+font-size
+font-family
+word-spacing 
+letter-spacing
+background
+border-bottom-style
+text-transform
+height
+text-shadow
+text-decoration
+text-indent
+position
+right
+max-width
+opacity
+box-shadow
+padding
+outline
+*/
+/*
+	I asked people around me for some help to come up with ideas. The most interesting properties I learned from my classmates were the background linear gradient, and the text shadow. 
+*/
 
