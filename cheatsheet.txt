@@ -16,6 +16,7 @@ python -m SimpleHTTPServer - Start the development server
 To validate: copy html format and copy into box, then click check. Correct any errors you have.
 Format of html:
 Head
+nav
 Title
 Body
 h = heading
@@ -29,3 +30,21 @@ main
 footer
 h1 - h6
 p
+to validate:
+go to website
+go to direct validating
+copy your format
+copy it into the box
+and click check
+development server
+type in sftp molly1845@cmis-hsteacher
+password: saospJYnXwuNk
+sftp allows to upload and download files from a certain computer 
+public html and your repository name refers to the same thing
+can type pwd to see which folder you are working in
+!ls to see contents of your repository 
+command to move a file from your computer to the production server (mr. kieffer's computer) is:
+put "file name" put in file name IF you're in the file you want to move
+to view published file go to url: http://cmis-hsteacher/~molly1845/quiz.html
+password for sftp: same as emails
+To edit with css insert into the head : <link rel="stylesheet" href="main.css" type="text/css"> 
