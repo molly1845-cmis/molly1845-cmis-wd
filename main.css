@@ -2,6 +2,11 @@ html {
 	background-image:url("http://www.wallpapereast.com/static/images/HD-Wallpapers-89_rElkAPy.jpg");
 	background-color: #B0E0E6;		
 }
+
+nav{
+	font-size: 20px;
+
+}
 h1 { 
 	color: #7B68EE; 
 	font-size: 50px; 
@@ -54,7 +59,11 @@ h2 {
 	height: 50px;
 	width: 1000px;
 }
-
+h3 {
+	color: white;
+	font-size: 30px;
+	font-family: comic sans;
+}
 p { 
 	color: #483D8B; 
 	font-size: 20px;
