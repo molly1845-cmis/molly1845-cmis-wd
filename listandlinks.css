@@ -1,1 +1,58 @@
 html {
+
+	background: #87CEFA;
+	background-image:url("http://static.tumblr.com/351df1b52174deb762d181ec2c714721/ltlt6y4/q6infbvdl/tumblr_static_bjz01uta3ogkcso48g0ko40sw.jpg");
+	border-top: outset;
+	border-top-width: 10px;
+	border-left: outset;
+	border-left-width: 10px;
+	border-color: #FF1493;
+}
+
+Header h1 {
+	background: white;
+	opacity: 0.7;
+	width: 350px;
+	font-size: 50px;
+	position: relative;
+	left: 550px;
+	border:solid;
+	border-color: #00CED1;
+}
+
+nav {
+	width: 50px;
+	color: white;
+	font-size: 20px;
+	
+}
+footer p {
+
+	width: 280px;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+
+h2, h3 {
+
+	color: #c71585;
+	font-size: 20px;
+	font-family: arial;
+}
+
+main ol {
+
+	color: #9370DB;
+	position: relative;
+	left: 30px;
+	font-family: arial;
+	font-style: bold;
+}
+
+main ul {
+
+	width: 150px;
+	color: blue;
+	position: relative;
+	left: 30px;
