@@ -1,0 +1,70 @@
+html {
+	background: red;
+	padding-left: 500px;
+	width: 600px;
+	
+}
+
+h1 {
+	color: yellow;
+	font-family: impact;
+	border-left:solid;
+	border-left-width: 40px;
+	
+}
+
+header p{
+	color:white;
+	font-family: arial;
+}
+nav {
+	font: yellow;
+	text-decoration: line-through;
+
+}
+
+header {
+	background: blue;
+	color: yellow
+	font-family: Impact;
+}
+
+h1{	
+	
+}
+
+main {
+	background: white;
+	color: black;
+	font-family:arial;
+	padding-left:60px;
+	padding-right: 60px;
+
+}
+
+h2 {
+
+	border-right: green solid;
+	border-right-width: 90px;
+}
+
+main p {
+	text-decoration: underline;
+}
+
+ol li {
+	border: dashed;
+	border-width: 1.5px;
+}
+
+ul{
+	text-decoration: line-through;
+}
+
+footer {
+
+	background: blue;
+	color: white;
+	font-family: arial;
+}
+
