@@ -1,0 +1,56 @@
+htlml {
+	
+	
+	
+	
+
+}
+
+body {
+	background-image: url("http://images.clipartpanda.com/basketball-clipart-basketball-clip-art-11.png");
+	background-color: black;
+	
+}
+header h1 {
+
+	
+	font-size: 2cm;
+	font-family: arial;
+	color: white;
+	margin: 3cm;
+	padding: 1cm;
+	border: 10px;
+	position: relative;
+	left: 100px;
+
+}
+
+nav { 
+
+	font-size: 1cm;
+}
+	
+
+h2, h3 {
+
+	font-size: 1cm;
+	font-family: arial;
+	color: white;
+
+
+}
+
+article {
+	color: #C464C4;
+	font-style: bold;
+	font-family: arial;
+	font-size: 0.5cm;
+
+}
+
+h3 p {
+
+	font-size: 20px;
+	font-family: arial;
+}
+	
