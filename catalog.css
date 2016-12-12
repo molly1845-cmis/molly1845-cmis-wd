@@ -1,10 +1,4 @@
-htlml {
-	
-	
-	
-	
 
-}
 
 body {
 	background-image: url("http://images.clipartpanda.com/basketball-clipart-basketball-clip-art-11.png");
@@ -32,6 +26,8 @@ header h1 {
 nav { 
 
 	font-size: 1cm;
+	background: #5D6A74;
+	width: 2.55cm;
 
 }
 
@@ -51,7 +47,6 @@ h1, h3 {
 
 h2 {
 	color: gray;
-	font-style: bold;
 	font-family: arial;	
 	
 }
@@ -60,7 +55,6 @@ article {
 	background-image:url("http://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Download-Plain-Wallpaper-HD.jpg");
 	background-color: white;
 	color: white;
-	font-style: bold;
 	font-family: arial;
 	font-size: 0.5cm;
 	margin:6cm;
@@ -85,5 +79,17 @@ h3 p {
 
 	font-size: 20px;
 	font-family: arial;
+}
+
+p {
+
+	color: white;
+	font-family: arial;
+}
+
+nav a {
+	color: #9BC8E8;
+	border: solid;
+	
 }
 	
