@@ -60,9 +60,9 @@ h2 {
 	width: 1000px;
 }
 h3 {
-	color: white;
+	color: #EE0EE0;
 	font-size: 30px;
-	font-family: comic sans;
+	font-family: arial;
 }
 p { 
 	color: #483D8B; 
@@ -79,6 +79,22 @@ p {
 	padding: 20px;
 	outline: #FF1493 dotted thick;
 } 
+
+main ol {
+
+	color: white;
+	position: relative;
+	left: 30px;
+	font-family: arial;
+}
+
+main ul {
+
+	width: 150px;
+	color: blue;
+	position: relative;
+	left: 30px;
+}
 
 /*
 Create a new file called "main.css"*

@@ -27,7 +27,7 @@ nav {
 
 	font-size: 1cm;
 	background: #5D6A74;
-	width: 2.55cm;
+	width: 2.65cm;
 
 }
 
@@ -67,12 +67,14 @@ article {
 
 }
 
-article img {
+article img {	
+	background: white;
 	border-radius: 100px;
 	position: relative;
 	left: 350px;
 	border: solid 3px gray;
-
+	height: 300px;
+	
 }
 
 h3 p {
